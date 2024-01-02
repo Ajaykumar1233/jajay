@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "astha",
+      "email": "ast@gmail.com",
+      "city": "lucknow",
+      "id": 103
+    },
+    {
+      "name": "rahul",
+      "email": "rahu@gmail.com",
+      "city": "kanpur",
+      "id": 104
+    },
+    {
+      "name": "ashutos tiwari",
+      "email": "ashu@gmail.com",
+      "city": "Ayodhya",
+      "id": 105
+    },
+    {
+      "name": "arunesh ydv",
+      "email": "ydv@gmail.com",
+      "city": "gorakhpur",
+      "id": 106
+    },
+    {
+      "name": "Abhinav ydv",
+      "email": "ydv123@gmail.com",
+      "city": "Allahabad",
+      "id": 107
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
